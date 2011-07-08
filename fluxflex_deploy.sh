@@ -11,3 +11,4 @@ gem install fcgi_handler --no-ri --no-rdoc
 rake gems:install
 rake config/initializers/session_store.rb
 python test.py
+
